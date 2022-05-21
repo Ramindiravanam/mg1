@@ -1,7 +1,7 @@
 class Simple{  
     public static void main(String args[])
     {  
-     System.out.println("Hello Jva1");  
+     System.out.println("Hell Jva1");  
          
     }  
 }  
