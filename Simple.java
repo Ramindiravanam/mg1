@@ -4,4 +4,6 @@ class Simple{
      System.out.println("Heoll Java1");  
          
     }  
+    
+    
 }  
